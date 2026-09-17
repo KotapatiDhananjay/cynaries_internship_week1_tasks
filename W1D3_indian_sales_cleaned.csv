@@ -1,0 +1,15 @@
+customer_id,city,product,sales
+101,Bengaluru,Laptop,55000.0
+102,Hyderabad,Phone,30000.0
+103,Chennai,Tablet,18000.0
+104,Mumbai,Laptop,65000.0
+105,Delhi,Phone,25000.0
+106,Bengaluru,Phone,22000.0
+107,Hyderabad,Laptop,29000.0
+108,Chennai,Phone,27000.0
+109,Unknown,Tablet,15000.0
+110,Delhi,Laptop,62000.0
+111,Bengaluru,Laptop,58000.0
+112,Hyderabad,Phone,35000.0
+113,Mumbai,Unknown,28000.0
+114,Delhi,Tablet,29000.0
