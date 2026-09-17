@@ -1,0 +1,16 @@
+customer_id,city,product,sales
+101,Bengaluru,Laptop,55000
+102,Hyderabad,Phone,30000
+103,Chennai,Tablet,18000
+104,Mumbai,Laptop,65000
+105,Delhi,Phone,25000
+106,Bengaluru,Phone,22000
+107,Hyderabad,Laptop,
+108,Chennai,Phone,27000
+109,,Tablet,15000
+110,Delhi,Laptop,62000
+110,Delhi,Laptop,62000
+111, Bengaluru , Laptop ,58000
+112,Hyderabad, Phone,35000
+113,Mumbai,,28000
+114,Delhi,Tablet,   
